@@ -10,3 +10,8 @@ conda create -n medchatbot python=3.10 -y
 ``` bash 
 conda activate medchatbot 
 ```
+
+###install depenedencies
+``` bash 
+pip install -r requirements.txt
+```
