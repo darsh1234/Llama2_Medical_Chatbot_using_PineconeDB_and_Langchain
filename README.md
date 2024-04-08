@@ -20,3 +20,10 @@ conda activate medchatbot
 ``` bash 
 pip install -r requirements.txt
 ```
+
+### 4. set envrionment variables
+#### Create a .env file in the root directory and add your Pinecone credentials as follows:
+```ini
+PINECONE_API_KEY = ""
+PINECONE_API_ENV = ""
+```
