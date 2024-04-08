@@ -1,1 +1,1 @@
-# Llama2_Medical_Chatbot_using_PineconeDB_and_Langachain
+# Llama2_Medical_Chatbot_using_PineconeDB_and_Langchain
