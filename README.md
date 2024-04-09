@@ -38,3 +38,14 @@ from the following link:
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q4_0.bin
 
 Keep the model in model directory
+
+### 6. Store your data in pinecone:
+
+``` bash 
+python store_index.py
+```
+
+### 6. Run the website and open local host:
+``` bash 
+python app.py
+```
