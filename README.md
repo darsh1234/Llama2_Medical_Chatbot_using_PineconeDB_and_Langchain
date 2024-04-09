@@ -27,3 +27,14 @@ pip install -r requirements.txt
 PINECONE_API_KEY = ""
 PINECONE_API_ENV = ""
 ```
+
+### 5. Download the quantized LLama 2 Model:
+
+TheBloke/Llama-2-7B-Chat-GGML
+
+llama-2-7b-chat.ggmlv3.q4_0.bin
+
+from the following link:
+https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q4_0.bin
+
+Keep the model in model directory
