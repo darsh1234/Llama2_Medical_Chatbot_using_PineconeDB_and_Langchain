@@ -45,7 +45,7 @@ Keep the model in model directory
 python store_index.py
 ```
 
-### 6. Run the website and open local host:
+### 7. Run the website and open local host:
 ``` bash 
 python app.py
 ```
