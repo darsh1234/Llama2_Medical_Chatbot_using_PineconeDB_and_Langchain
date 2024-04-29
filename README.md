@@ -1,5 +1,10 @@
 # Llama2_Medical_Chatbot_using_PineconeDB_and_Langchain
 
+## Description
+
+This project is a medical chatbot that combines the power of Llama2, a large language model trained on a vast corpus of text data including medical literature, with the efficiency of PineconeDB, a vector database used for storing and retrieving medical data. The chatbot leverages the Retrieval Augmented Generation (RAG) approach, where Llama2 generates responses based on both its pre-trained knowledge and relevant information retrieved from the PineconeDB index. Langchain, a framework for building applications with large language models, provides utilities for text generation, question answering, and data retrieval. The chatbot is designed to assist users with medical queries, providing accurate and relevant information by seamlessly integrating Llama2's language generation capabilities with the retrieved medical data from PineconeDB. Users can interact with the chatbot through a web interface, asking questions or seeking information on various medical topics. The RAG approach ensures that the chatbot's responses are not only fluent and contextually relevant but also factually grounded in the stored medical data.
+
+
 ## Installation
 
 ### 1. Clone the repository
